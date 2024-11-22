@@ -14,7 +14,7 @@ Aside from programming, I'm a saxophonist and love dogs and board games.
 - <strong> эффективное управление временем </strong> / time management
 - <strong> желание работать в команде </strong> / team player
 - <strong> стрессоустойчивость </strong> / stress resistant
-- <strong> английский язык A2+ </strong> / зre-Intermediate
+- <strong> английский язык A2+ </strong> / Pre-Intermediate
 
 ## ⚒️ Языки программирования, фреймворки и инструменты / Prog. languages, frameworks and tools:
 

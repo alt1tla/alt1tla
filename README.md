@@ -13,4 +13,4 @@
 - JavaScript, TypeScript, Python, PHP, Delphi.
 - HTML & CSS.
 - Vue3, Svelte5, Django, React, Laravel.
-- Git, DevTools, Vite< Postman, Swagger, VS Code, Figma, Docker. 
+- Git, DevTools, Vite, Postman, Swagger, Playwright, VS Code, Figma, Docker. 
